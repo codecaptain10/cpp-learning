@@ -1,0 +1,5 @@
+﻿  FirstApplication.cpp
+C:\Users\Lenovo\Desktop\cpp-learning\FirstApplication\FirstApplication\FirstApplication.cpp(33,27): warning C4838: konwersja z „int” do „char” wymaga konwersji zawężającej
+C:\Users\Lenovo\Desktop\cpp-learning\FirstApplication\FirstApplication\FirstApplication.cpp(33,35): warning C4305: "inicjowanie": obcięcie z "int" do "char"
+C:\Users\Lenovo\Desktop\cpp-learning\FirstApplication\FirstApplication\FirstApplication.cpp(33,27): warning C4309: "inicjowanie": obcięcie stałej wartości
+  FirstApplication.vcxproj -> C:\Users\Lenovo\Desktop\cpp-learning\FirstApplication\x64\Debug\FirstApplication.exe
