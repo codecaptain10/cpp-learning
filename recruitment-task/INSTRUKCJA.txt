@@ -1,0 +1,8 @@
+Do wykonania są dwa zadania LoremIpsum oraz Oranogram (każdy w osobnym folderze).
+W każdym z folderów znajduje się plik README tłumaczący co należy zrobić w danym zadaniu.
+Każdy z folderów posiada również plik projektu Visual Studio (vcxproj), a w folderze nadrzędnym znajduje się plik solucji Visual Studio (Acturis.Cpp.Test.sln) - Visual Studio nie jest wymagany do wykonania tych zadań, można utworzyć projekty w używanym przez siebie IDE bądź używać wybranego przez siebie edytora tekstu.
+
+Wykonane zadanie prosimy odesłać na poniższe adresy:
+magdalena.kudla@acturis.com
+piotr.szumilas@acturis.com
+patryk.gruszka@acturis.com
